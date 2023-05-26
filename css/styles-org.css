@@ -8,6 +8,7 @@ body {
 .content {
     box-sizing: border-box;
 }
+
 .row {
     margin-left: -5px;
     margin-right: -5px;
@@ -156,9 +157,9 @@ p {
 }
 
 .books-table {
-    border: #00c3ff44;
-    border-width: 2px;
-    border-style: double;
+    border: #fc9331bd;
+    border-width: 3px;
+    border-style: outset
 }
 
 .aboutfblinks {
